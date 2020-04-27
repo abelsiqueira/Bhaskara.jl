@@ -1,0 +1,7 @@
+name = "Bhaskara"
+uuid = "6fa74583-7700-4de3-b844-a7a9cce528fc"
+authors = ["Abel Soares Siqueira <abel.s.siqueira@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
